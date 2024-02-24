@@ -23,10 +23,7 @@ git merge
 git branch
 -Mostra a branch atual
 
-git branch -b <nome-da-minha-branch>
--Cria uma nova branch apartir do historico atual da branch em que estamos
-
-git checkout <nome-da-branch>
+git checkout -b <nome-da-branch>
 -Muda para essa branch
 
 git remote add <nome> <URL-do-repositorio-remoto>
